@@ -56,8 +56,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: b66b95f53c169be4fa92                            #生成的clientID
+  clientSecret: a13fbbc940e05a09f8d462478987f88dfe6b1bd8    #生成的clientSecret
   repo: StitchWuhula.github.io    #仓库名称
   owner: StitchWuhula    #github用户名
   admin: StitchWuhula
